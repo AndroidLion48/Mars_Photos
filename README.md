@@ -1,12 +1,13 @@
-MarsPhotos - Starter Code
+MarsPhotos
 ==================================
 
-Starter code for [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course).
+Project from [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course).
 
 Introduction
 ------------
+![ScreenShot](https://user-images.githubusercontent.com/92341925/220235691-3604f2e2-2f16-48dc-a979-76b29aa49dbe.png)
 
-Using this stater code you will create MarsPhotos is a demo app that shows actual images of Mar's surface. These images are
+I created MarsPhotos which is a demo app that shows actual images of Mar's surface. These images are
 real-life photos from Mars captured by NASA's Mars rovers. The data is stored on a Web server
 as a REST web service.  The solution app will demonstrate the use of [Retrofit](https://square.github.io/retrofit/) to make REST requests to the web service, [Moshi](https://github.com/square/moshi) to
 handle the deserialization of the returned JSON to Kotlin data objects, and [Coil](https://coil-kt.github.io/coil/) to load images by URL.
